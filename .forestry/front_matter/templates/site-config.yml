@@ -2,11 +2,12 @@
 label: Site Config
 hide_body: false
 fields:
-- name: pathPrefix
-  label: Pathprefix
+- name: canonical_url
+  label: Canonical URL
   type: text
   hidden: false
   default: ''
+  description: The canonical URL to your production site.
 - name: title
   label: Title
   type: text

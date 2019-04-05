@@ -5,6 +5,7 @@ module.exports = {
   siteMetadata: {
     title: config.title,
     description: config.description,
+    siteUrl: config.canonical_url,
     footer: config.footer,
   },
   plugins: [
