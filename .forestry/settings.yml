@@ -31,8 +31,8 @@ sections:
 - type: document
   path: site-config.json
   label: Site Config
-upload_dir: ''
-public_path: ''
+upload_dir: src/images
+public_path: "/src/images"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
