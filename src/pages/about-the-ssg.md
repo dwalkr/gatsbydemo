@@ -2,7 +2,9 @@
 title: About Gatsby
 stats:
 - value: foo
+  value2: foo
 - value: '100'
+  value2: '100'
 
 ---
 Gatsby is a static site generator built on the React JavaScript framework. Gatsby's purpose is to build fast, highly-optimized static sites.
