@@ -1,5 +1,9 @@
 ---
 title: What is this?
+stats:
+- value: '20'
+  value2: '20'
+  foonum: '20'
 
 ---
 You're currently viewing a demo site built with [GatsbyJS](https://www.gatsbyjs.org/) and [Forestry](https://forestry.io). This website is meant to demonstrate some of the features of Forestry's CMS and how it integrates with the Gatsby static site generator, but you are encouraged to copy it, hack on it, and make it your own!
