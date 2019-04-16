@@ -5,3 +5,20 @@ fields:
 - type: text
   name: title
   label: Title
+- name: stats
+  type: field_group_list
+  fields:
+  - name: value
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: value
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: stats
