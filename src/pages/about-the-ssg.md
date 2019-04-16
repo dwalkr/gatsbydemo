@@ -1,7 +1,9 @@
 ---
 title: About Gatsby
 stats:
-- value: foo
+- value: 'foo
+
+'
   value2: foo?
   foonum: '123'
 - value: '100'
