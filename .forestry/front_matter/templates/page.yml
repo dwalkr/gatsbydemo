@@ -17,6 +17,11 @@ fields:
       schema:
         format: markdown
     label: value
+  - name: value2
+    type: text
+    config:
+      required: false
+    label: value2
   config:
     min: 
     max: 
