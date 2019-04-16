@@ -6,7 +6,9 @@ stats:
 '
   value2: foo?
   foonum: '123'
-- value: '100'
+- value: '100
+
+'
   value2: '12345'
   foonum: '91'
 
